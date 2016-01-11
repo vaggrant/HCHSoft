@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCHSoft.Serialize", "HCHSoft.Serialize\HCHSoft.Serialize.csproj", "{6F772E2D-E353-425A-A254-5A49098DA5AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCHSoft.Log", "HCHSoft.Log\HCHSoft.Log.csproj", "{9B04C902-456F-466D-AAAB-CC58DB46C5EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCHSoft.Logger", "HCHSoft.Logger\HCHSoft.Logger.csproj", "{9B04C902-456F-466D-AAAB-CC58DB46C5EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCHSoft.Http", "HCHSoft.Http\HCHSoft.Http.csproj", "{88574F80-4FE7-49CE-BFC0-0B9C4EDF88BA}"
 EndProject
